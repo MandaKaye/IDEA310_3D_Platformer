@@ -1267,7 +1267,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TurtleCollecter
   TurtleText: {fileID: 905286776}
   NumTurtsInLvl: 5
-  LvltoLoad: Menu
+  LvltoLoad: LevelTwo
 --- !u!1001 &1592331737
 PrefabInstance:
   m_ObjectHideFlags: 0

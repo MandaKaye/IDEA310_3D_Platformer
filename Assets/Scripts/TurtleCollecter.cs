@@ -21,7 +21,7 @@ public class TurtleCollecter : MonoBehaviour
 
             if(TurtlesCollected == NumTurtsInLvl)
             {
-                SceneManager.LoadScene("Menu");
+                SceneManager.LoadScene(LvltoLoad);
             }
        } 
     }
